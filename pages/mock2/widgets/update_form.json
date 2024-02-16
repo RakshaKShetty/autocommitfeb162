@@ -33,7 +33,7 @@
                 "iconAlign": "left",
                 "position": 0,
                 "isDisabled": false,
-                "sourceData": 7.6706E+7,
+                "sourceData": 76706000,
                 "fieldType": "Number Input"
             },
             "imdb_id": {
